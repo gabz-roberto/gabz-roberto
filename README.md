@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7C47F0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Roberto+Rodrigues;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabz-roberto&show_icons=true&count_private=true&hide_border=true&title_color=7C47F0&icon_color=7C47F0&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Roberto Rodrigues github stats" /> 
-</div>
-
-<div align="center">  
 <a href="www.linkedin.com/in/gabriel-roberto-rodrigues" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
